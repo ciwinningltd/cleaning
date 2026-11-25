@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rudra496.github.io/ciwinningcleaning/sitemap.xml
+Sitemap: https://ciwinningltd.github.io/ciwinningcleaning/sitemap.xml
